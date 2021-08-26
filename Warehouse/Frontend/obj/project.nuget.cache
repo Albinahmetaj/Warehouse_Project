@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHV4DBYTe3vzCB+BeBptBzdNaF8jB0mKyHpM3L+iiAFUvv/5L2ESGamAwGaIbhvzz3OcDuUlRp+QH8+Au+G8gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Albin\\source\\repos\\Albinahmetaj\\Warehouse_Project\\Warehouse\\Frontend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

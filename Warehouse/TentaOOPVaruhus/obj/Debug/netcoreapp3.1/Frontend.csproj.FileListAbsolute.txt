@@ -1,0 +1,39 @@
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Albin\source\repos\TentaOOPVaruhus\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\Albin\Desktop\Ny mapp\TentaOOPVaruhus\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
